@@ -1,4 +1,3 @@
-# JPA
 // 1. 创建EntityManagerFactory
 	factory = Persistence.createEntityManagerFactory("taiji");
 
